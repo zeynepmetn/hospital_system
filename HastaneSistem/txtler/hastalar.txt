@@ -1,0 +1,2 @@
+AD,SOYAD,TC,ŞİFRE,GEÇMİŞ
+

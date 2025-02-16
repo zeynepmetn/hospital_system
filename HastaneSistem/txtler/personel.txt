@@ -1,0 +1,4 @@
+Ad,Soyad,ID,sifre,Görev
+Serdar,Çam,1980,16,Yönetici
+Barış,Akarsu,1,baris123,Doktor
+Sezen,Aksu,2,serce123,Doktor
